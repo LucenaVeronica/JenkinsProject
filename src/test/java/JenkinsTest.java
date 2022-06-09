@@ -1,7 +1,7 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class jenkinsTest {
+public class JenkinsTest {
 
     @Test
     public void primerTest(){
