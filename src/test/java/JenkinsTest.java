@@ -5,6 +5,6 @@ public class JenkinsTest {
 
     @Test
     public void primerTest(){
-        Assert.assertEquals(2,2);
+        Assert.assertEquals(3,3);
     }
 }
